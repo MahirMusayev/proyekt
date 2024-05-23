@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|c:\\users\\heydar\\desktop\\amoebapractica\\amoebapractica\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|c:\\users\\heydar\\desktop\\amoebapractica\\amoebapractica\\viewmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\viewmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|c:\\users\\heydar\\desktop\\amoebapractica\\amoebapractica\\viewmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\viewmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|c:\\users\\heydar\\desktop\\amoebapractica\\amoebapractica\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|c:\\users\\heydar\\desktop\\amoebapractica\\amoebapractica\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\dal\\amoebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\dal\\amoebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|c:\\users\\heydar\\desktop\\amoebapractica\\amoebapractica\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|c:\\users\\heydar\\desktop\\amoebapractica\\amoebapractica\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\viewmodel\\createteamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\viewmodel\\createteamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\amoebapractica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734C4066-7991-4C57-AD1E-35A4E64444FF}|AmoebaPractica\\AmoebaPractica.csproj|solutionrelative:amoebapractica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AmoebaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\DAL\\AmoebaContext.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\DAL\\AmoebaContext.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\DAL\\AmoebaContext.cs",
+              "RelativeToolTip": "AmoebaPractica\\DAL\\AmoebaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:16:48.478Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:21:52.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\ViewModel\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\ViewModel\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\ViewModel\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "AmoebaPractica\\ViewModel\\Account\\RegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:58:32.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\ViewModel\\Account\\LoginVm.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\ViewModel\\Account\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\ViewModel\\Account\\LoginVm.cs",
+              "RelativeToolTip": "AmoebaPractica\\ViewModel\\Account\\LoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:58:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AmoebaPractica\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwEIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:43:20.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Program.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Program.cs",
+              "RelativeToolTip": "AmoebaPractica\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:12:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:12:56.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AmoebaPractica\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:27:53.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswD4AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:24:43.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:12:16.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Models\\AppUser.cs",
+              "RelativeToolTip": "AmoebaPractica\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:44:02.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T15:08:55.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:12:36.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:47:21.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Models\\Team.cs",
+              "RelativeToolTip": "AmoebaPractica\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:23:11.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AmoebaPractica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:11:35.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwDMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:28:25.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\appsettings.json",
+              "RelativeDocumentMoniker": "AmoebaPractica\\appsettings.json",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\appsettings.json",
+              "RelativeToolTip": "AmoebaPractica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T14:12:02.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:28:55.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateTeamVM.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\ViewModel\\CreateTeamVM.cs",
+              "RelativeDocumentMoniker": "AmoebaPractica\\ViewModel\\CreateTeamVM.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\ViewModel\\CreateTeamVM.cs",
+              "RelativeToolTip": "AmoebaPractica\\ViewModel\\CreateTeamVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:40:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:29:15.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:29:02.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AmoebaPractica\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AmoebaPractica\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T14:27:15.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AmoebaPractica\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\AmoebaPractica\\AmoebaPractica\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AmoebaPractica\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:12:23.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

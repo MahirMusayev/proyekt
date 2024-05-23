@@ -1,0 +1,66 @@
+﻿@using AmoebaPractica.Models
+@model List<Team>
+<h5 class="card-title fw-semibold mb-4">Recent Transactions</h5>
+<a asp-action="Create" class="btn btn-success m-1">Success</a>
+<div class="table-responsive">
+	<table class="table text-nowrap mb-0 align-middle">
+		<thead class="text-dark fs-4">
+			<tr>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Id</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Fullname</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Subtitle</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Pormison</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Image</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0"> Icons</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Assent</h6>
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td class="border-bottom-0">
+						@item.Id
+					</td>
+					<td class="border-bottom-0">
+						@item.Fullname
+					</td>
+					<td class="border-bottom-0">
+						@item.Description
+					</td>
+					<td class="border-bottom-0">
+						@item.Position
+					</td>
+					<td class="border-bottom-0">
+						<img width="50px" src="@item.ImageUrl" />
+					</td>
+					<td>
+						<i class="@item.Icons"></i>
+					</td>
+					<td>
+						<a asp-action="update" asp-route-id="@item.Id" class="btn btn-primary m-1">Update</a>
+						<a asp-action="delete" asp-route-id="@item.Id" class="btn btn-danger m-1">Delet</a>
+					</td>
+
+				</tr>
+
+
+			}
+
+		</tbody>
+	</table>
+</div>

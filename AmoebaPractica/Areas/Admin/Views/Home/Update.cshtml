@@ -1,0 +1,26 @@
+﻿@using AmoebaPractica.Models
+@model Team
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Fullname" class="form-label"></label>
+        <input asp-for="Fullname" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Position" class="form-label"></label>
+        <input asp-for="Position" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="ImageUrl" class="form-label"></label>
+        <input asp-for="ImageUrl" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Icons" class="form-label"></label>
+        <input asp-for="Icons" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <input asp-for="Description" class="form-control">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
